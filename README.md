@@ -2,8 +2,8 @@
 
 <img src="./images/Oracle_Logo.jpg" alt="Oracle" width="220"/>
 
-# 🚀 DeepDive Workshop OCI 2026
-### AI Data Platform (AIDP) + AI Database Agent Factory
+# 🚀 Build a football ai with Oracle AIDP
+### AI Data Platform (AIDP)
 
 [![OCI Console](https://img.shields.io/badge/OCI%20Console-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://cloud.oracle.com/)
 [![AI Database](https://img.shields.io/badge/AI%20Database-26ai-red?style=for-the-badge)](https://www.oracle.com/database/)
